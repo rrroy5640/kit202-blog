@@ -1,0 +1,15 @@
+.nav a{
+    display: inline-block;
+    color:rgb(103, 99, 99);
+    height: 60px;
+    width: 120px;
+    text-align: center;
+    line-height: 60px;
+    background-color: aquamarine;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+.nav a:hover{
+    background-color: orchid;
+}
